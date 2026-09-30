@@ -219,4 +219,9 @@ __marimo__/
 
 # Raw data
 data/raw/*.csv
-data/raw/*:Zone.Identifier
+
+# Processed data
+data/processed/*.csv
+
+# Trained models
+models/*.pkl
