@@ -5,3 +5,5 @@ seaborn
 ipykernel
 scikit-learn
 xgboost
+fastapi
+uvicorn
